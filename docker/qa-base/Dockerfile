@@ -1,4 +1,4 @@
-FROM python:3.6.5-jessie
+FROM registry.docker-cn.com/library/python:3.6.5-jessie
 
 ENV TZ=Asia/Shanghai
 ENV DEBIAN_FRONTEND noninteractive
